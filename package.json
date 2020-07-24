@@ -26,8 +26,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "json-server": "json-server --watch ./public/db.json --port 9999",
-    "heroku-postbuild": "node server.js"
+    "json-server": "json-server --watch ./public/db.json --port 9999"
   },
   "eslintConfig": {
     "extends": "react-app"
